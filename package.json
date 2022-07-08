@@ -1,0 +1,31 @@
+{
+  "name": "javascript-programs",
+  "version": "1.0.0",
+  "description": "java script simple programs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShankarraoBirajdar/JavaScriptSimplePrograms.git"
+  },
+  "keywords": [
+    "pull",
+    "commit",
+    "push"
+  ],
+  "author": "shankarrao birajdar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShankarraoBirajdar/JavaScriptSimplePrograms/issues"
+  },
+  "homepage": "https://github.com/ShankarraoBirajdar/JavaScriptSimplePrograms#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "dependencies": {
+    "mysql8.0": "^1.1.2",
+    "xlsx": "^0.18.5"
+  }
+}

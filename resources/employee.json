@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Shankar",
+    "Company": "TCS",
+    "Gender": "male",
+    "City": "Vinchur",
+    "Salary": 10000
+  },
+  {
+    "Name": "Priyanka",
+    "Company": "Accenture",
+    "Gender": "female",
+    "City": "Vinchur",
+    "Salary": 20000
+  },
+  {
+    "Name": "Dhaneshwari",
+    "Company": "TCS",
+    "Gender": "female",
+    "City": "Solapur",
+    "Salary": 30000
+  },
+  {
+    "Name": "Divya",
+    "Company": "TCS",
+    "Gender": "female",
+    "City": "Solapur",
+    "Salary": 40000
+  },
+  {
+    "Name": "Aman",
+    "Company": "TCS",
+    "Gender": "male",
+    "City": "Dehradun",
+    "Salary": 50000
+  },
+  {
+    "Name": "Pooja",
+    "Company": "Capgemini",
+    "Gender": "female",
+    "City": "Mumbai",
+    "Salary": 60000
+  },
+  {
+    "Name": "Onkar",
+    "Company": "Deloitte",
+    "Gender": "male",
+    "City": "Mumbai",
+    "Salary": 70000
+  },
+  {
+    "Name": "Amit",
+    "Company": "HCL",
+    "Gender": "male",
+    "City": "Mumbai",
+    "Salary": 80000
+  },
+  {
+    "Name": "Abhishek",
+    "Company": "Capgemini",
+    "Gender": "male",
+    "City": "Solapur",
+    "Salary": 90000
+  }
+]
