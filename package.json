@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShankarraoBirajdar/JavaScriptSimplePrograms.git"
+    "url": "git+https://github.com/ShankarraoBirajdar/JavaScript-Programs.git"
   },
   "keywords": [
     "pull",
@@ -18,9 +18,9 @@
   "author": "shankarrao birajdar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShankarraoBirajdar/JavaScriptSimplePrograms/issues"
+    "url": "https://github.com/ShankarraoBirajdar/JavaScript-Programs/issues"
   },
-  "homepage": "https://github.com/ShankarraoBirajdar/JavaScriptSimplePrograms#readme",
+  "homepage": "https://github.com/ShankarraoBirajdar/JavaScript-Programs#readme",
   "devDependencies": {
     "@types/node": "^17.0.21"
   },
